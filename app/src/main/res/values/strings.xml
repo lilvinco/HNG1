@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HNG1</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register_now">Register Now!</string>
+    <string name="name">Name</string>
+    <string name="prompt_password2">Confirm password</string>
+    <string name="dob">Date of Birth</string>
+    <string name="phone">Phone number</string>
+    <string name="email">Email address</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="register">Register</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="password">password: ********</string>
+</resources>
